@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "5cb506c0-ef16-4c3a-84fa-42ad964e77a1",
+    "Name": "\u041A\u043E\u0448\u0435\u043B\u0451\u043A",
+    "Currency": "RUB",
+    "InitialBalance": 10000,
+    "Transactions": [
+      {
+        "Id": "e7c5f333-8ef4-4625-9111-f2abf84894d0",
+        "Date": "2025-11-02T00:00:00",
+        "Amount": 1500,
+        "Type": 1,
+        "Description": "\u041E\u0434\u0435\u0436\u0434\u0430"
+      },
+      {
+        "Id": "ca6d48f4-aea0-4d22-b9c6-0e708d34e02f",
+        "Date": "2025-11-05T00:00:00",
+        "Amount": 2000,
+        "Type": 0,
+        "Description": "\u0417\u0430\u0440\u043F\u043B\u0430\u0442\u0430"
+      },
+      {
+        "Id": "cbc27b56-ed0d-4b36-9067-b5231dbb442c",
+        "Date": "2025-11-10T00:00:00",
+        "Amount": 300,
+        "Type": 1,
+        "Description": "\u041E\u0431\u0435\u0434"
+      }
+    ],
+    "CurrentBalance": 10200
+  },
+  {
+    "Id": "e29b1428-02f1-4688-a802-1674b8f2b1c0",
+    "Name": "\u041A\u0430\u0440\u0442\u0430",
+    "Currency": "RUB",
+    "InitialBalance": 50000,
+    "Transactions": [
+      {
+        "Id": "bd98b3b2-f4ff-4d5d-ae2f-3ea58e9b95e9",
+        "Date": "2025-11-03T00:00:00",
+        "Amount": 12000,
+        "Type": 1,
+        "Description": "\u0420\u0435\u043C\u043E\u043D\u0442 \u0442\u0435\u0445\u043D\u0438\u043A\u0438"
+      },
+      {
+        "Id": "d8eee684-0673-4cf9-9f6b-0e7fced77d66",
+        "Date": "2025-11-08T00:00:00",
+        "Amount": 4000,
+        "Type": 1,
+        "Description": "\u0422\u0435\u043B\u0435\u0432\u0438\u0437\u043E\u0440"
+      },
+      {
+        "Id": "468ee5f0-8192-4907-9fbe-bc866f63d3c2",
+        "Date": "2025-11-15T00:00:00",
+        "Amount": 30000,
+        "Type": 0,
+        "Description": "\u0417\u0430\u0440\u043F\u043B\u0430\u0442\u0430"
+      }
+    ],
+    "CurrentBalance": 64000
+  }
+]

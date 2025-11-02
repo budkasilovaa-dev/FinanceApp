@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.exe
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.deps.json
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.runtimeconfig.json
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.dll
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\bin\Debug\net9.0\FinanceApp.pdb
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.AssemblyInfo.cs
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.dll
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\refint\FinanceApp.dll
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.pdb
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\FinanceApp.genruntimeconfig.cache
+C:\Users\user\Desktop\РУСЛАН ВСЕ ФОТКИ НЕ СОХРАНЕННЫЕ\исходник\FinanceApp\FinanceApp\obj\Debug\net9.0\ref\FinanceApp.dll
